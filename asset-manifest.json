@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/FullStack-Osa1/anecdotes/static/js/main.8f4b2ddd.js",
-    "index.html": "/FullStack-Osa1/anecdotes/index.html",
-    "main.8f4b2ddd.js.map": "/FullStack-Osa1/anecdotes/static/js/main.8f4b2ddd.js.map"
+    "main.js": "/FullStack-Osa1/tree/master/courseinfo/static/js/main.5966401f.js",
+    "index.html": "/FullStack-Osa1/tree/master/courseinfo/index.html",
+    "main.5966401f.js.map": "/FullStack-Osa1/tree/master/courseinfo/static/js/main.5966401f.js.map"
   },
   "entrypoints": [
-    "static/js/main.8f4b2ddd.js"
+    "static/js/main.5966401f.js"
   ]
 }
